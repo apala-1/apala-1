@@ -37,7 +37,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apala-1&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 Activity Graph
-[![Apala's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apala-1&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Apala's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apala-1&theme=merko)](https://github.com/apala-1)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=apala-1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
