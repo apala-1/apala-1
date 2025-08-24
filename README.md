@@ -39,9 +39,6 @@
 ## 📈 Activity Graph
 [![Apala's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apala-1&theme=merko)](https://github.com/apala-1)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=apala-1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=apala-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
