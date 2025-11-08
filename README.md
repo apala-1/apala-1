@@ -53,7 +53,7 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-pink?style=for-the-badge)](#)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apala-lamichhane-aba780324/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-skyblue?style=for-the-badge&logo=twitter)](https://www.instagram.com/head_hurtss/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-skyblue?style=for-the-badge&logo=instagram)](https://www.instagram.com/head_hurtss/)  
 [![Email](https://img.shields.io/badge/-Say%20Hi!-yellow?style=for-the-badge)](mailto:apala13579@gmail.com)  
 
 ---
