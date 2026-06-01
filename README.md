@@ -1,6 +1,10 @@
 # 🌸 Hi, I’m Apala — professional bug creator, occasional bug fixer 🌸
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM0eGZlZ3VtdjdhdDl2NTRzZnRqa2lwMWpjYWl3Z2VmYzJqaGh0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right" />
+## 💀 current coding state
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amY1dzM5M2RsdzhqeDZqZzYzc2k2NDg0MGR6MzVqdW1jZmp0NG1ocyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QHE5gWI0QjqF2/giphy.gif" width="260" />
+
+yes. this is me. every time i debug.
 
 I build things, break things, fix things… and sometimes pretend the bug was “intentional architecture.”
 
@@ -46,14 +50,6 @@ I use whatever works… and then refuse to let it go:
 
 ---
 
-## 📊 GitHub Stats (a visual representation of my insomnia)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=apala-1&theme=merko&hide_border=false)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=apala-1&theme=merko)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apala-1&layout=compact&theme=merko)
-
----
-
 ## 📈 Activity Graph
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=apala-1&theme=merko)
@@ -72,9 +68,9 @@ I use whatever works… and then refuse to let it go:
 ## 🌐 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apala-lamichhane-aba780324/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/head_hurtss/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/apala.exe/)
 [![Email](https://img.shields.io/badge/Say%20Hi-yellow?style=for-the-badge)](mailto:apala13579@gmail.com)
 
 ---
 
-✨ *Thanks for visiting — may your code compile and your bugs be low-priority.*  
+✨ everything compiles in theory. production is a social construct.
