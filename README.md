@@ -1,4 +1,4 @@
-# 🌸 Hi, I’m Apala — professional bug creator, occasional bug fixer 🌸
+# 🌸 Hi, I’m Apala, professional bug creator, occasional bug fixer 🌸
 
 ## 💀 current coding state
 
