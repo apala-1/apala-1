@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-visit_my_site-2F4FE0?style=for-the-badge)](https://YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-visit_my_site-2F4FE0?style=for-the-badge)](https://www.apalalamichhane.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0B8583?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apala-lamichhane-aba780324/)
 [![Email](https://img.shields.io/badge/Email-say_hi-C47A10?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apala13579@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-apala.exe-C03077?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apala.exe/)
