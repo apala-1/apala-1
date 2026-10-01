@@ -1,0 +1,29 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch:       # lets you run it by hand
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: apala-1
+          outputs: |
+            dist/github-snake.svg?color_snake=#2F4FE0&color_dots=#E3E9F1,#B9C7FF,#8EA2FF,#5C78F0,#2F4FE0
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#F271AE&color_dots=#1C2945,#3A4B6E,#5C78F0,#8EA2FF,#B9C7FF
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
